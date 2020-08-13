@@ -1,0 +1,305 @@
+[
+    {
+        "name": "AAK",
+        "lat": 42.64,
+        "long": 74.49,
+        "testing_areas": [
+            {
+                "country": "Индия",
+                "name": "Покхаран",
+                "type": "square",
+                "lat1": 26.1,
+                "lat2": 27.8,
+                "long1": 69.4,
+                "long2": 72.5
+            },
+            {
+                "country": "Пакистан",
+                "name": "Чагай",
+                "type": "square",
+                "lat1": 29.00,
+                "lat2": 30.60,
+                "long1": 70.70,
+                "long2": 72.30
+            },
+            {
+                "country": "Пакистан",
+                "name": "Чагай",
+                "type": "square",
+                "lat1": 27.95,
+                "lat2": 29.95,
+                "long1": 64.20,
+                "long2": 65.80
+            }
+        ]
+    },
+    {
+        "name": "WSAR",
+        "lat": 23.24,
+        "long": 58.63,
+        "testing_areas": [
+            {
+                "country": "Индия",
+                "name": "Покхаран",
+                "type": "square",
+                "lat1": 26.1,
+                "lat2": 27.8,
+                "long1": 69.4,
+                "long2": 72.5
+            },
+            {
+                "country": "Пакистан",
+                "name": "Чагай",
+                "type": "square",
+                "lat1": 29.00,
+                "lat2": 30.60,
+                "long1": 70.70,
+                "long2": 72.30
+            },
+            {
+                "country": "Пакистан",
+                "name": "Чагай",
+                "type": "square",
+                "lat1": 27.95,
+                "lat2": 29.95,
+                "long1": 64.20,
+                "long2": 65.80
+            },
+            {
+                "country": "Иран",
+                "name": "Деште-Кевир",
+                "type": "square",
+                "lat1": 33.9,
+                "lat2": 35.3,
+                "long1": 54.3,
+                "long2": 56.1
+            },
+            {
+                "country": "Иран",
+                "name": "Деште-Лут",
+                "type": "square",
+                "lat1": 30.0,
+                "lat2": 31.4,
+                "long1": 58.1,
+                "long2": 59.0
+            }
+        ]
+    },
+    {
+        "name": "MKAR",
+        "lat": 46.79,
+        "long": 82.29,
+        "testing_areas": [
+            {
+                "country": "Китай",
+                "name": "Лобнор",
+                "type": "dot",
+                "lat": 41.54,
+                "long": 88.76
+            },
+            {
+                "country": "Китай",
+                "name": "Лобнор",
+                "type": "dot",
+                "lat": 40.81,
+                "long": 89.79
+            }
+        ]
+    },
+    {
+        "name": "ZALV",
+        "lat": 42.64,
+        "long": 84.81,
+        "testing_areas": [
+            {
+                "country": "Китай",
+                "name": "Лобнор",
+                "type": "dot",
+                "lat": 41.54,
+                "long": 88.76
+            },
+            {
+                "country": "Китай",
+                "name": "Лобнор",
+                "type": "dot",
+                "lat": 40.81,
+                "long": 89.79
+            }
+        ]
+    },
+    {
+        "name": "SONM",
+        "lat": 47.83,
+        "long": 106.39,
+        "testing_areas": [
+            {
+                "country": "Китай",
+                "name": "Лобнор",
+                "type": "dot",
+                "lat": 41.54,
+                "long": 88.76
+            },
+            {
+                "country": "Китай",
+                "name": "Лобнор",
+                "type": "dot",
+                "lat": 40.81,
+                "long": 89.79
+            },
+            {
+                "country": "КНДР",
+                "name": "Пунгэри",
+                "type": "square",
+                "lat1": 40.8,
+                "lat2": 41.8,
+                "long1": 128.40,
+                "long2": 129.70
+            }
+        ]
+    },
+    {
+        "name": "NVAR",
+        "lat": 38.43,
+        "long": -118.3,
+        "testing_areas": [
+            {
+                "country": "США",
+                "name": "НИП",
+                "type": "dot",
+                "lat": 37.10,
+                "long": -116.03
+            },
+            {
+                "country": "США",
+                "name": "НИП",
+                "type": "dot",
+                "lat": 37.23,
+                "long": -116.30
+            }
+        ]
+    },
+    {
+        "name": "ELK",
+        "lat": 33.61,
+        "long": -116.46,
+        "testing_areas": [
+            {
+                "country": "США",
+                "name": "НИП",
+                "type": "dot",
+                "lat": 37.10,
+                "long": -116.03
+            },
+            {
+                "country": "США",
+                "name": "НИП",
+                "type": "dot",
+                "lat": 37.23,
+                "long": -116.30
+            }
+        ]
+    },
+    {
+        "name": "PFO",
+        "lat": 40.74,
+        "long": -115.24,
+        "testing_areas": [
+            {
+                "country": "США",
+                "name": "НИП",
+                "type": "dot",
+                "lat": 37.10,
+                "long": -116.03
+            },
+            {
+                "country": "США",
+                "name": "НИП",
+                "type": "dot",
+                "lat": 37.23,
+                "long": -116.30
+            }
+        ]
+    },
+    {
+        "name": "USRK",
+        "lat": 44.2,
+        "long": 131.98,
+        "testing_areas": [
+            {
+                "country": "КНДР",
+                "name": "Пунгэри",
+                "type": "square",
+                "lat1": 40.8,
+                "lat2": 41.8,
+                "long1": 128.40,
+                "long2": 129.70
+            }
+        ]
+    },
+    {
+        "name": "KSRS",
+        "lat": 37.44,
+        "long": 127.89,
+        "testing_areas": [
+            {
+                "country": "КНДР",
+                "name": "Пунгэри",
+                "type": "square",
+                "lat1": 40.8,
+                "lat2": 41.8,
+                "long1": 128.40,
+                "long2": 129.70
+            }
+        ]
+    },
+    {
+        "name": "AKTO",
+        "lat": 50.43,
+        "long": 58.02,
+        "testing_areas": [
+            {
+                "country": "Иран",
+                "name": "Деште-Кевир",
+                "type": "square",
+                "lat1": 33.9,
+                "lat2": 35.3,
+                "long1": 54.3,
+                "long2": 56.1
+            },
+            {
+                "country": "Иран",
+                "name": "Деште-Лут",
+                "type": "square",
+                "lat1": 30.0,
+                "lat2": 31.4,
+                "long1": 58.1,
+                "long2": 59.0
+            }
+        ]
+    },
+    {
+        "name": "GEYT",
+        "lat": 37.93,
+        "long": 58.12,
+        "testing_areas": [
+            {
+                "country": "Иран",
+                "name": "Деште-Кевир",
+                "type": "square",
+                "lat1": 33.9,
+                "lat2": 35.3,
+                "long1": 54.3,
+                "long2": 56.1
+            },
+            {
+                "country": "Иран",
+                "name": "Деште-Лут",
+                "type": "square",
+                "lat1": 30.0,
+                "lat2": 31.4,
+                "long1": 58.1,
+                "long2": 59.0
+            }
+        ]
+    }
+]
